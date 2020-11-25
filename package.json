@@ -1,0 +1,11 @@
+{
+  "name": "codespace-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/linchen1987/codespace-test",
+  "author": "linchen1987 <linchen.1987@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
